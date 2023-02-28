@@ -3,7 +3,7 @@
     src: url("img/fonts/fifawelcome.ttf");
 }
 body{
-    background: radial-gradient(at top, #E02F39,#520004);
+    background: radial-gradient(at top, #3b2fe0,#520004);
 }
 .logo{ z-index: 0;}
 .navbar{ z-index: 1;    position: static; font-family: "FIFA Welcome"; font-size: 18px}
